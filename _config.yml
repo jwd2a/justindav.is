@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+title:       Justin Davis
+email:       justin@maderalabs.com
+author:      Justin Davis
+description: "UX guy. Javascript hacker. Founder of Madera Labs and Drawer."
+baseurl:     "/justindavis.co"
+url:         "http://jwd2a.github.io"
 
 # Google analytics
 google_analytics:
