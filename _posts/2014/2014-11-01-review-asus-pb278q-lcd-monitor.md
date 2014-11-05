@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Review: Asus PB278 Dual Monitor Setup"
+summary: "Recently, I upgraded my monitors at home, to a pair of Asus PB278Qs. These ultra-HD monitors are absolutely gorgeous, and over half the price of Apple's Thunderbolt displays."
 ---
 
 I recently upgraded my monitor situation at the house, moving from a 37″ VISIO TV (I know, right?) to a set of dual 27″ monitors. I was looking for something with higher resolution, and also wanted the dual setup to give me more space for working.
