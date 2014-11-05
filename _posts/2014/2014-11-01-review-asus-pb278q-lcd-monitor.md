@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Review: Asus PB278Q LCD Monitor
-permalink: /review-asus-pb278q-lcd-monitor/
+title: My Post 
+
 ---
 
 I recently upgraded my monitor situation at the house, moving from a 37″ VISIO TV (I know, right?) to a set of dual 27″ monitors. I was looking for something with higher resolution, and also wanted the dual setup to give me more space for working.
