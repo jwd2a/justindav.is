@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Post 
+title: Review\: Asus PB278 Dual Monitor Setup 
 
 ---
 
