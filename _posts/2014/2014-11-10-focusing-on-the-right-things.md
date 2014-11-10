@@ -22,4 +22,4 @@ In case you need a reminder, here's what you should be doing in the early days o
 - Shipping product
 - Talking to customers
 
-That's it. Note that there's nothing in there about window treatments, coffee machines and stickers. Starting a company is ridiculously hard work, you don't have the luxury to waste resources at this point - start focusing relentlessly on those above bullet points, and cut everything else out.
+That's it. Note that there's nothing in there about window treatments, coffee machines and stickers. Starting a company is ridiculously hard work, you don't have the luxury to waste resources at this point - start focusing relentlessly on those above bullet points, and cut everything else out.  

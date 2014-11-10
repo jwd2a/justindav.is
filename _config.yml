@@ -7,19 +7,19 @@ baseurl:     ""
 url:         "http://justindavis.co"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-53680827-1
 
 # Optional features
 animated:           false
-show_related_posts: false
-show_post_footers:  false
+show_related_posts: true
+show_post_footers:  true
 
 # Social icons
-show_social_icons: false
-github_username:
-twitter_username:
+show_social_icons: true
+github_username: jwd2a
+twitter_username: jwd2a
 google_plus_id:
-linkedin_username:
+linkedin_username: jwd2a
 bitcoin_url:
 paypal_url:
 flattr_button:
@@ -27,6 +27,6 @@ flattr_button:
 # Build settings
 markdown:     kramdown
 permalink:    pretty
-paginate:     3
+paginate:     5
 sass:
   compressed: true
