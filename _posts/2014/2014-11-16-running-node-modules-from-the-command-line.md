@@ -57,4 +57,4 @@ That's it! Now, you can call this file as we did above where it was required int
 
 Note that if you don't include the shebang in the file, you'll need to prepend your CLI call with `node`. 
 
-BOOM! Node modules that can be included and invoked from another file, or simply run ala carte from the command line. I've found a lot of uses for this, and hope you do as well!
+BOOM! Now your node modules can be included and invoked from another file, or simply run ala carte from the command line. I've found a lot of uses for this, and hope you do as well!
