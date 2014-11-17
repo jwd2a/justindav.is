@@ -2,6 +2,7 @@
 layout: post
 title: "The New App Store: Yosemite Widgets"
 summary: "With Apple's new OS, Yosemite, comes an entirely new class of apps: widgets. I have a feeling this might be the next big app store for devs to conquer"
+comments: true
 ---
 
 Coming this fall, Apple will release OS X Yosemite, their new version of the OS X line.  Among the changes – notably the user interface, which I’m still trying to adjust to – is a big change to the notification center, which provides much more of an iOS7/8 type view:

@@ -2,6 +2,7 @@
 layout: post
 title: "Determine if a number is in the Fibonacci series using JavaScript"
 summary: "Given a certain value, how would you find out if that value is in the Fibonacci series, in the most memory-conservative way? Let's look at how to get this done using JavaScript."
+comments: true
 ---
 
 I recently had a conversation with a [buddy of mine](http://joshtronic.com) who is a kick ass dev. We had been chatting about working on little academic problems, as a way to increase your understanding of code and algorithms. Since we usually build for the web, where things are much more practical, spending some time on contrived problems like this is challenging and helps you think more deeply about solving problems using code.

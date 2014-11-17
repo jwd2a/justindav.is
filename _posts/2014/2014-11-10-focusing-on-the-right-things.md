@@ -2,6 +2,7 @@
 layout: post
 title: "Focusing on the Right Things"
 summary: "When you do a startup, you have a singular goal: getting people to use your stuff. Don't get distracted and miss the mark."
+comments: true
 ---
 
 I see this happen all the time. Someone launches their entrepreneural journey, thrusting themselves out into the world to hang a shingle and try to create something of their own.
