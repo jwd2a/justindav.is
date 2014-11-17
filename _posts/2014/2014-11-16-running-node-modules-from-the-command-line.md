@@ -2,6 +2,7 @@
 layout: post
 title: "Running Node Modules from the Command Line"
 summary: "Being able to run a Node.js module from the command line, while also being able to include it and run it in your application, is a really useful pattern. Let's take a look at how to easily give your modules this super power."
+comments: true
 ---
 
 Being able to run node.js modules from the command line is a really useful thing, especially if you're building an app that runs on a server, and might occasionally need to have pieces of it invoked manually. 
