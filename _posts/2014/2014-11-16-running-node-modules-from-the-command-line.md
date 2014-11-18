@@ -45,7 +45,7 @@ Here's our refactored module:
     if (!module.parent) {
         reporter.createReport(process.argv[2]);
     }
-}();
+})();
 ~~~
 
 Let's break down what we've done. 
