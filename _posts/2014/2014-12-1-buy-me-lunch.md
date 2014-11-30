@@ -18,7 +18,7 @@ So, interested in doing lunch? Let's do this. I've chosen 5 restaurants nearby w
 
 Here's what you need to do:
 
-1. [Find a time and book me here](http://buymelunch.youcanbook.me)
+1. [Find a time and book me here](http://letsdolunch.youcanbook.me)
 2. Meet me there and buy lunch.
 
 That's it!
