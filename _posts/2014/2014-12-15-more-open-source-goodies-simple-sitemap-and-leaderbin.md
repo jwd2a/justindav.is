@@ -11,7 +11,7 @@ I've now put out a second module, in collaboration [with a buddy of mine](http:/
 
 Also, the package includes automatic submission to both Google and Bing, so once it creates your sitemap for you, it'll go ahead and submit it, assuring the search engines have the latest from you. If you need an easy way to make sitemaps for your site, I highly encourage [checking it out!](http://npmjs.org/simple-sitemap)
 
-Lastly, the same buddy of mine who worked on the simple-sitemap module with me just open sourced a project of his called Leaderbin. Leaderbin is an app that handles leaderboards as a service. It features a pretty simple API that allows you to pass it data, and it'll keep tabs on your leaderboards for you. Pretty great for folks who are incorporating any kind of gamification or other tracking into their products. It's not hosted anymore, but the code is out there, should you want to pick it up and run with it.
+Lastly, the same buddy of mine who worked on the simple-sitemap module with me just open sourced a project of his called [Leaderbin](https://github.com/joshtronic/leaderbin.com). Leaderbin is an app that handles leaderboards as a service. It features a pretty simple API that allows you to pass it data, and it'll keep tabs on your leaderboards for you. Pretty great for folks who are incorporating any kind of gamification or other tracking into their products. It's not hosted anymore, but [the code is out there](https://github.com/joshtronic/leaderbin.com), should you want to pick it up and run with it.
 
 Any open source packages you've seen this week that are worth pointing out? Throw them in the comments!
 
