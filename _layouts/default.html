@@ -29,8 +29,8 @@
 			          UIDType: UIDType
 		          }));
        }
-       document.getElementsByTagName("a").onclick = function(){
-          this.preventDefault();
+       document.getElementsByTagName("a").onclick = function(e){
+          e.preventDefault();
           tracker.track(this.dataset.action);
        }
 </script>
