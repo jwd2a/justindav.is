@@ -18,6 +18,7 @@
   var tracker = {};
       tracker.siteKey = "ab76c8aa-5e38-732b-aa90-b0acd4ba61bc";
       tracker.track = function(eventType, UID, UIDType){
+        console.log("Make the request: " + eventType);
 	 	      var request = new XMLHttpRequest();
 		          request.open("POST", "http://sleepy-cliffs-1333.herokuapp.com/events", true);
 		          request.setRequestHeader("Content-type", "application/json");
