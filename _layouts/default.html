@@ -29,10 +29,14 @@
 			          UIDType: UIDType
 		          }));
        }
-       document.getElementsByTagName("a").onclick = function(this){
-          this.preventDefault();
-          tracker.track(this.dataset.action);
+       var links = document.getElementsByTagName("a");
+       for(var i=0; i < links.length; i++){
+         links[i].addEventListener(function(e){
+           e.preventDefault();
+           tracker.track(this.dataset.action);
+         });
        }
+      
 </script>
 </body>
 </html>
