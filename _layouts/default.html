@@ -30,6 +30,7 @@
 		          }));
        }
        document.getElementsByTagName("a").onclick = function(){
+          this.preventDefault();
           tracker.track(this.dataset.action);
        }
 </script>
