@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My New Schedule"
-summary: ""
+summary: "In order to accomplish as much as possible while making sure I get ample family time, I'm putting myself on a new schedule. From exercise to reading, to work and time with the family, this schedule should make sure I keep everything balanced while getting everything I want done."
 comments: true
 ---
 
