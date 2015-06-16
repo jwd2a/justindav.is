@@ -26,7 +26,7 @@ So, here's the new schedule:
 |7:30-8:00|Cook dinner|
 |8:00-8:30|Dinner|
 |8:30-11:00|Personal projects, extra work, misc free time|
-______________________
+
 
 I've put this together to coincide with my daughter's schedule (example: she eats and has her bath from 7:30-8:00pm, so I cook dinner during that time), to maximize the time I can spend with her during the day. Definitely another advantage to her being on a schedule as well.
 
