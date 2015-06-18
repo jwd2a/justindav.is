@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Using Sass with Titanium Alloy Style Sheets &#8211; Justin Davis</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="If you're a Titanium dev, using Sass in your Alloy style sheets can save a bunch of time and make your code much more DRY. This post looks at how to get Sass up and running with Titanium.">
+    <meta name="author" content="Justin Davis">
+    <meta name="keywords" content="">
+    <link rel="canonical" href="http://justindavis.co/2014/10/14/using-sass-with-titanium-alloy-style-sheets/">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/pixyll.css" type="text/css">
+
+    <!-- Fonts -->
+    <link href='//fonts.googleapis.com/css?family=Merriweather:900,900italic,300,300italic' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Lato:900,300' rel='stylesheet' type='text/css'>
+    
+      <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    
+
+    <!-- Open Graph -->
+    <!-- From: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/_includes/head.html -->
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Using Sass with Titanium Alloy Style Sheets">
+    <meta property="og:description" content="UX guy. Javascript hacker. Founder of Madera Labs and Drawer.">
+    <meta property="og:url" content="http://justindavis.co/2014/10/14/using-sass-with-titanium-alloy-style-sheets/">
+    <meta property="og:site_name" content="Justin Davis">
+</head>
+
+<body class="">
+  <div class="site-wrap">
+    <header class="site-header px2 px-responsive">
+  <div class="mt2 wrap">
+    <div class="measure">
+      <a href="http://justindavis.co" class="site-title">Justin Davis</a>
+      <nav class="site-nav right">
+        <a href="/about/">About</a>
+<a href="/contact/">Contact</a>
+
+      </nav>
+      <div class="clearfix"></div>
+      
+        <div class="social-icons">
+  <div class="left">
+    
+      <a class="fa fa-github" href="https://github.com/jwd2a"></a>
+    
+    <a class="fa fa-rss" href="/feed.xml"></a>
+    
+      <a class="fa fa-twitter" href="https://twitter.com/jwd2a"></a>
+    
+    
+    
+      <a class="fa fa-envelope" href="mailto:justin@maderalabs.com"></a>
+    
+    
+      <a class="fa fa-linkedin" href="https://www.linkedin.com/in/jwd2a"></a>
+    
+  </div>
+  <div class="right">
+    
+    
+    
+  </div>
+</div>
+<div class="clearfix"></div>
+
+      
+    </div>
+  </div>
+</header>
+
+
+    <div class="post p2 p-responsive wrap" role="main">
+      <div class="measure">
+        
+
+
+<div class="post-header mb2">
+    <h1>Using Sass with Titanium Alloy Style Sheets</h1>
+    <span class="post-meta">Oct 14, 2014</span>
+    <br> 
+    <span class="post-meta small">1 minute read</span>
+</div>
+
+<article class="post-content">
+  <div style="float:right">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- Blog Post -->
+    <ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-9511660895620992" data-ad-slot="9517207742"></ins>
+    <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+  </div>
+  <p>Today, using CSS frameworks and preprocessors, like LESS and Sass, is an important part of efficient frontend development workflow. These new approaches allow us to use things like variables, mixins, inheritance and imports to make our CSS more flexible, more DRY, and more modular. In short, it makes writing CSS less of a pain.</p>
+
+<p>What if you’re a Titanium developer? How can you harness the power of these CSS tools when styling your app using Alloy TSS?</p>
+
+<p>STSS to the rescue!</p>
+
+<p>STSS is a NPM package that brings the power of Sass into Titanium, allowing you to use all those sexy Sass features in your Titanium apps.</p>
+
+<p>Getting started is easy:</p>
+
+<div class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="nx">npm</span> <span class="nx">install</span> <span class="o">-</span><span class="nx">g</span> <span class="nx">stss</span></code></pre></div>
+
+<p>I installed the package globally on my machine, but you can it locally in your project if you want. If you install globally like I did, add an Alloy pre-compile hook so that Titanium will compile the STSS files into TSS files before building the project.</p>
+
+<p>To get that pre-compile hook set up, go to your project directory and do this:</p>
+
+<div class="highlight"><pre><code class="language-javascript" data-lang="javascript"><span class="nx">stss</span> <span class="o">--</span><span class="nx">jmk</span></code></pre></div>
+
+<p>Once you’ve done that, you’re in business! Start naming your Alloy style sheets with a `.stss’ extension, and enjoy the wonderful power of Sass in your Titanium apps!</p>
+
+<p>For more information, <a href="https://www.npmjs.org/package/stss">check out the official NPM package here</a>. To learn about Sass and all the ways it’ll change your life, <a href="http://www.sass-lang.org/">check out their site.</a></p>
+
+</article>
+
+ <div class="py2 post-footer">
+  <img src="/images/avatar.jpg" alt="Justin Davis" class="avatar" />
+  <p>
+    Justin Davis is a hacker and user experience designer, and founder of <a href="http://www.maderalabs.com">Madera Labs</a> and <a href="http://www.getdrawer.com">Drawer</a>. He's an expert in UX, product design and product development. He's also pretty legit at throwing JavaScript around.
+  </p>
+  <p>
+    Follow him on Twitter at <a href="http://www.twitter.com/jwd2a">@jwd2a</a>.
+  </p>
+  <p>
+    Want to pick Justin's brain personally? <a href="http://letsdolunch.youcanbook.me">Buy him lunch</a> and he'll meet with you to chat about whatever you're working on.
+  </p>
+</div>
+  
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+var disqus_shortname = 'justindavis'; // required: replace example with your forum shortname
+
+/* * * DON'T EDIT BELOW THIS LINE * * */
+(function() {
+    var dsq = document.createElement('script');
+    dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>
+ 
+<h3 class="related-post-title">Related Posts</h3> 
+<div class="post ml2">
+    <a href="/2014/12/07/my-first-open-source-contribution-node-amazon-products-api/" class="post-link">
+        <h4 class="post-title">My First Open Source Contribution: Node Amazon Products API</h4>
+        <p class="post-summary">For the first time, I've released an open source project, a Node.JS module that allows an easy way of interacting with the Amazon Product Advertising API. Available now on npm!</p>
+    </a>
+</div>
+
+<div class="post ml2">
+    <a href="/2014/12/01/buy-me-lunch/" class="post-link">
+        <h4 class="post-title">Buy Me Lunch</h4>
+        <p class="post-summary">Need help with UX, product design, development or anything else? Buy me lunch and let's chat.</p>
+    </a>
+</div>
+
+<div class="post ml2">
+    <a href="/2014/11/24/using-command-line-arguments-in-a-node-script/" class="post-link">
+        <h4 class="post-title">Using Command Line Arguments in a Node Script</h4>
+        <p class="post-summary">If you're creating scripts that can run on the command line, being able to pass arguments to the script is extremely useful. Let's take a look at how to do it with Node.</p>
+    </a>
+</div>
+
+<div class="post ml2">
+    <a href="/2014/11/24/just-ship/" class="post-link">
+        <h4 class="post-title">Just Ship.</h4>
+        <p class="post-summary">If you have an idea, something you want to build, stop making excuses and just do it.</p>
+    </a>
+</div>
+
+<div class="post ml2">
+    <a href="/2014/11/16/running-node-modules-from-the-command-line/" class="post-link">
+        <h4 class="post-title">Running Node Modules from the Command Line</h4>
+        <p class="post-summary">Being able to run a Node.js module from the command line, while also being able to include it and run it in your application, is a really useful pattern. Let's take a look at how to easily give your modules this super power.</p>
+    </a>
+</div>
+
+<div class="post ml2">
+    <a href="/2014/11/10/focusing-on-the-right-things/" class="post-link">
+        <h4 class="post-title">Focusing on the Right Things</h4>
+        <p class="post-summary">When you do a startup, you have a singular goal: getting people to use your stuff. Don't get distracted and miss the mark.</p>
+    </a>
+</div>
+
+<div class="post ml2">
+    <a href="/2014/11/01/review-asus-pb278q-lcd-monitor/" class="post-link">
+        <h4 class="post-title">Review: Asus PB278 Dual Monitor Setup</h4>
+        <p class="post-summary">Recently, I upgraded my monitors at home, to a pair of Asus PB278Qs. These ultra-HD monitors are absolutely gorgeous, and over half the price of Apple's Thunderbolt displays.</p>
+    </a>
+</div>
+
+<div class="post ml2">
+    <a href="/2014/10/30/determine-if-a-number-is-in-the-fibonacci-series-using-javascript/" class="post-link">
+        <h4 class="post-title">Determine if a number is in the Fibonacci series using JavaScript</h4>
+        <p class="post-summary">Given a certain value, how would you find out if that value is in the Fibonacci series, in the most memory-conservative way? Let's look at how to get this done using JavaScript.</p>
+    </a>
+</div>
+
+<div class="post ml2">
+    <a href="/2014/09/20/three-books-every-parent-to-be-must-read/" class="post-link">
+        <h4 class="post-title">Three Books Every Parent-To-Be MUST READ</h4>
+        <p class="post-summary">If you're a soon-to-be parent, do yourself and favor and pick up these three books. They made our lives infinitely easier, and our daughter much happier in those trying first few months</p>
+    </a>
+</div>
+
+<div class="post ml2">
+    <a href="/2014/09/17/the-new-app-store-yosemite-widgets/" class="post-link">
+        <h4 class="post-title">The New App Store: Yosemite Widgets</h4>
+        <p class="post-summary">With Apple's new OS, Yosemite, comes an entirely new class of apps: widgets. I have a feeling this might be the next big app store for devs to conquer</p>
+    </a>
+</div>
+ 
+
+      </div>
+    </div>
+  </div>
+
+  <footer class="footer">
+  <div class="p2 wrap">
+    <div class="measure mt1 center">
+      <small>
+        Thanks for reading. Don't steal my shit. 
+      </small>
+    </div>
+  </div>
+</footer>
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-53680827-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51af5dfc0e30f577" async="async"></script>
+</body>
+</html>
