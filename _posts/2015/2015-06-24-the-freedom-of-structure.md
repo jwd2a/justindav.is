@@ -11,7 +11,7 @@ Having structure is really important. Structuring your day helps you know when y
 
 However, having more structure in your life goes much further than simply helping you get things done more efficiently: structure actually gives you freedom.
 
-Take for example, my reading time. I have 30 minutes in my daily schedule allocated to read, after my morning workout and right before I start my day. Knowing that I have that 30 minutes already reserved for reading means I don't feel guilty for not already starting my day. Scheduling that time _give me permission_ to read, which I would otherwise be likely to feel guilty about.
+Take for example, my reading time. I have 30 minutes in my daily schedule allocated to read, after my morning workout and right before I start my day. Knowing that I have that 30 minutes already reserved for reading means I don't feel guilty for not already starting my day. I don't feel guilty for not checking my email yet. Scheduling that time _give me permission_ to read, which I would otherwise be likely to feel guilty about.
 
 Money is the same way. Budgeting every month gives you permission to spend what's in the budget. If you gave yourself $500 to spend on eating out and having fun, and by the last week of the month, you've only spent $300 of it, go have a blowout time! Without that structure, you'd feel self-conscious about spending $200 on a nice dinner, but because of the budget, you've got the freedom to spend that money.
 
@@ -20,5 +20,3 @@ It doesn't end there. Structure is valuable in any area of your life and work. I
 It's tempting to look at structure as an old-fart way of approaching things, flying in the face of creativity and spontenaeity, but the truth is actually the opposite: structure gives you freedom, it doesn't take it away.
 
 So, a challenge: find an area of your life that isn't structured. Whether it's your daily schedule, your money, your work, your dinner/eating plans, whatever, and come up with a way to structure it. Try it for two weeks, and I think you'll be blown away by just how much more free you feel when you lock things down.
-
- 
