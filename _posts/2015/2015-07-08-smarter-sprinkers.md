@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Idea: Smarter Sprinkers"
+title: "Idea: Smarter Sprinklers"
 summary: "The first in my Idea series, this post looks at an idea for creating better irrigation systems for home and commercial use."
 comments: true
 ---
