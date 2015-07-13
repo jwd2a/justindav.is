@@ -5,3 +5,17 @@ td {
 table {
   margin-bottom: 20px;
 }
+
+code {
+  background-color: #eee;
+  font-family: monospace;
+  padding: 1px 5px 1px 5px;
+}
+
+pre {
+  width: 100%;
+  background-color: #eee;;
+  code {
+    background-color: transparent;
+  }
+}
