@@ -27,11 +27,11 @@ I think this could be particularly useful on Twitter. Those conversations I ment
 
 This would also be helpful in support tasks where social media teams are monitoring Twitter. If you work for a company, and you monitor Twitter for people complaining about your product, you'll typically intercept them, and try to resolve the problem. Although I've never worked in this capacity, I've been on the receiving end, and it typically goes like this.
 
-Me: "[Says something disparaging about a company]"
-Company: "Hey [@jwd2a](http://twitter.com/jwd2a)! Follow us so we can DM you and help out!"
-Me: [Follows account]
-Company (via DM, sometime later): "Hey, saw you were having trouble, how can we help?"
-Me/Company: [Volley of DMs over a period of time]
+> **Me**: "[Says something disparaging about a company]"  
+> **Company**: "Hey [@jwd2a](http://twitter.com/jwd2a)! Follow us so we can DM you!"  
+> **Me**: [Follows account]  
+> **Company** (via DM, sometime later): "Hey, saw you were having trouble, how can we help?"  
+> **Me/Company**: [Volley of DMs over a period of time]
 
 Sometimes, this exchange moves into email or some other support system. With our transient chat rooms, the support agent could quickly create a room, invite me to it, hash out the issue, and destroy the room. Instant support, with no reliance on any heavy infrastructure, and no modal shift for the user.
 
