@@ -8,7 +8,6 @@ I'm a user experience designer and Javascript/Node dev, living in Tampa. I've cu
 
 - [Madera Labs](http://www.maderalabs.com) - A User Experience Design Agency based in Tampa, FL.
 - [Drawer](http://www.getdrawer.com) - An app for sharing collections of your favorite places with the world.
-- Also, an instructor at [gr8code](http://www.gr8code.com) - a coding bootcamp in Tampa.
 
 This blog is mostly rants, tips, thoughts and other random musings that are too long for Twitter and not quite appropriate for Facebook.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Idea: Capacity Forecasting for Freelancers/Independents"
-summary: "What you've done is more important than what you know, or what you say you've done."
+summary: "If you're a freelancer or independent contractor, predicting your future work capacity can be difficult. Here's an idea for making it easier."
 comments: true
 ---
 This is yet another post in my Idea Series - basically a way for me to write about ideas I'm considering working on, to help vet them, invite critical feedback, and figure out if they're worth pursuing or not. If you missed my posts on [Smarter Sprinklers](http://justindavis.co/2015/07/08/smarter-sprinkers/) or [Disposable, Transient Chat](http://justindavis.co/2015/07/15/transient-chat/), I'd love for you to take a look and give me your feedback.
