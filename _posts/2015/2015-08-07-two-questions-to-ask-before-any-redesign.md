@@ -5,14 +5,14 @@ summary: "Whether you're redesigning a feature or an entire site, you need to st
 comments: true
 ---
 
-"Have we measured this, and if so, what does the data tell us?"
+"Have we measured this, and if so, what does the data tell us?"  
 "Have we talked to our users?"
 
 If you're redesigning something, whether it's a simple feature or your entire site or app, you need to start with these two questions.
 
 Both of these questions are designed to stop you in your tracks, and make sure you've got the evidence you need before you start working to redesign something. Redesigns take time and money, and you shouldn't do it based on gut - you need evidence.
 
-It's easy to come to the conclusion that you need to do some kind of redesign. Either something doesn't feel like it's working right, you're just tired of the current approach, or something else has cropped up that makes you uneasy. The problem is, going with your gut can cause a few problems, not the least of which is the fact that more often than not, [your gut is wrong]().
+It's easy to come to the conclusion that you need to do some kind of redesign. Either something doesn't feel like it's working right, you're just tired of the current approach, or something else has cropped up that makes you uneasy. The problem is, going with your gut can cause a few problems, not the least of which is the fact that more often than not, [your gut is wrong](https://www.psych.umn.edu/people/meehlp/032ClinstixBook.pdf).
 
 By starting with these two questions, you do two things. First, you slow down the process, and prevent yourself from acting reactively, which allow you to evaluate if a) you should actually do this, and b) if you do, what the best approach is.
 
