@@ -7,11 +7,11 @@ comments: true
 
 If you've ever done any API work, you've certainly run into cross-origin restrictions. Designed as an important security aspect for the browser, these cross-origin restrictions quickly get to be a pain in the ass when you're trying to build a service that, by its very design, is for allowing clients from different domains to connect to your service.
 
-*** A Brief History of CORS ***
+### A Brief History of CORS
 
 Cross-Origin Resource Sharing (CORS) [came about in 2004](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing#History) as a modern alternative to JSONP. It was designed to permit a wider range of request methods than JSONP allows - which is only `GET`. With CORS, servers now had a way to control which clients could connect, how they could connect, and which methods they were permitted to execute on the server.
 
-*** Options, Options, Options ***
+### Options, Options, Options
 
 There are two types of cross-origin requests that can happen: simple requests, and preflighted requests.
 
@@ -30,7 +30,7 @@ These preflighted requests are protected with this initial `OPTIONS` request, to
 
 With these preflighted requests, we're able to allow for cross-origin requests in a secure manner, making the web a much more interesting place to build things. In today's API-driven, service-oriented environment, CORS is part of the glue that makes it all work.
 
-*** CORS in Express.js ***
+### CORS in Express.js 
 
 Alright, we're getting to the code, I promise. Now that you have a decent enough understanding of how CORS works, let's look at how we'd do this in Node, more specifically, in [Express](http://expressjs.com), one of the most popular Node frameworks.
 
