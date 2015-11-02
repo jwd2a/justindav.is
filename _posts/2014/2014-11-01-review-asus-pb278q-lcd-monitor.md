@@ -24,7 +24,7 @@ As for specs, here’s how things look:
 - Accepts VGA, Dual-Link DVI, HDMI 1.4, DisplayPort 1.2
 - Tilt, vertical movement and base rotation for adjusting the viewing angle
 
-All in all, I’m damn happy with them. My only real gripe is that you can’t daisy chain them with DisplayPort, which means you’ll need a splitter or two ports to run them. Not a huge deal either way. BTW, if you buy one, don’t forget your [Mini DisplayPort to DisplayPort adapter](http://www.amazon.com/gp/product/B00HNF0KF0/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00HNF0KF0&linkCode=as2&tag=daondr-20&linkId=SPSYI55ES45PP6QW) or [cable](http://www.amazon.com/gp/product/B00C7RJQPY/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00C7RJQPY&linkCode=as2&tag=daondr-20&linkId=42T3EEL5UVL4KSPJ)!
+All in all, I’m damn happy with them. My only real gripe is that you can’t daisy chain them with DisplayPort, which means you’ll need a splitter or two ports to run them. Not a huge deal either way. BTW, if you buy one, don’t forget your [Mini DisplayPort to DisplayPort adapter](http://www.amazon.com/gp/product/B00HNF0KF0/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00HNF0KF0&linkCode=as2&tag=justdavi-20&linkId=SPSYI55ES45PP6QW) or [cable](http://www.amazon.com/gp/product/B00C7RJQPY/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00C7RJQPY&linkCode=as2&tag=justdavi-20&linkId=42T3EEL5UVL4KSPJ)!
 
 A couple other shots of the monitors, to give you a full feel for them:
 
@@ -35,4 +35,4 @@ I’d highly recommend you take a look at them if you’re looking to upgrade yo
 
 Grab them on Amazon here:
 
-[ASUS PB278Q 27-Inch WQHD LED-lit Professional Graphics Monitor](http://www.amazon.com/gp/product/B009C3M7H0/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009C3M7H0&linkCode=as2&tag=daondr-20&linkId=YNZWQQUM35CCSBOV)
+[ASUS PB278Q 27-Inch WQHD LED-lit Professional Graphics Monitor](http://www.amazon.com/gp/product/B009C3M7H0/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009C3M7H0&linkCode=as2&tag=justdavi-20&linkId=YNZWQQUM35CCSBOV)

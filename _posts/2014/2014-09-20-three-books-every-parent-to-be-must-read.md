@@ -18,7 +18,7 @@ They cover in depth the science behind sleep and how feeding affects sleeping, a
 
 This book goes pretty deep into some of the science, and certainly offers a deep explanation about the why behind their schedule-based approach.
 
-[Buy Babywise on Amazon](https://archive.today/o/zhlgU/http://www.amazon.com/On-Becoming-Baby-Wise-Nighttime/dp/1932740139/ref=as_sl_pc_ss_til?tag=daondr-20&linkCode=w01&linkId=XKGNHCL2GGTQCO5Q&creativeASIN=1932740139) 
+[Buy Babywise on Amazon](https://archive.today/o/zhlgU/http://www.amazon.com/On-Becoming-Baby-Wise-Nighttime/dp/1932740139/ref=as_sl_pc_ss_til?tag=justdavi-20&linkCode=w01&linkId=XKGNHCL2GGTQCO5Q&creativeASIN=1932740139) 
 
 ### Moms on Call
 
@@ -29,7 +29,7 @@ Moms On Call is brief, with short little “chapters” covering everything from
 This book also features detailed schedules, and we found ourselves following their schedules more than Babywise, simply due to the detail they go into (while the rest of the book is brief, the schedule component is quite detailed).
 The authors also have a website (and service, based in Atlanta) where they feature videos about how to swaddle, diaper changing, and other important items. A fantastic resource.
 
-[Buy Moms on Call on Amazon](https://archive.today/o/zhlgU/http://www.amazon.com/Moms-Call-Basic-Baby-Care-ebook/dp/B00AN2JPNI/ref=as_sl_pc_ss_til?tag=daondr-20&linkCode=w01&linkId=45G7NAJXOS6GSAWZ&creativeASIN=B00AN2JPNI) 
+[Buy Moms on Call on Amazon](https://archive.today/o/zhlgU/http://www.amazon.com/Moms-Call-Basic-Baby-Care-ebook/dp/B00AN2JPNI/ref=as_sl_pc_ss_til?tag=justdavi-20&linkCode=w01&linkId=45G7NAJXOS6GSAWZ&creativeASIN=B00AN2JPNI) 
 
 ### The Happiest Baby on the Block
 
@@ -39,7 +39,7 @@ Perhaps most famous in Karp’s book is the 5 S’s, which is his framework for 
 
 Just for the 5 S’s alone, this book is a must read. These little tricks have saved us (and our daughter) from hours of misery.
 
-[Buy Happiest Baby on the Block on Amazon](https://archive.today/o/zhlgU/http://www.amazon.com/Happiest-Baby-Block-Harvey-Karp/dp/0553381466/ref=as_sl_pc_ss_til?tag=daondr-20&linkCode=w01&linkId=WREPFQW5PRRBSG3T&creativeASIN=0553381466) 
+[Buy Happiest Baby on the Block on Amazon](https://archive.today/o/zhlgU/http://www.amazon.com/Happiest-Baby-Block-Harvey-Karp/dp/0553381466/ref=as_sl_pc_ss_til?tag=justdavi-20&linkCode=w01&linkId=WREPFQW5PRRBSG3T&creativeASIN=0553381466) 
 
 Becoming a new parent is a shock to the system, to say the least. It’s a huge period of adjustment for you and your little one, and any help you can get from folks who’ve done it before and know what they’re talking about is worth seeking out. Of all the resources and tips we’ve gotten over the past 10 months, these books have been elevated in our household to absolutely critical status.
 
