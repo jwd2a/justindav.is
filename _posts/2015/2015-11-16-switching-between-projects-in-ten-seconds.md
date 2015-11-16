@@ -22,24 +22,24 @@ What that means is that each time I switch between projects, I have to close all
 
 ## A Better Way Forward
 
-Recently, my buddy [josh][josh] turned me onto using [tmux][tmux] for better managing sessions of terminal windows. Tmux in itself is awesome, but combined with [tmuxinator][tmuxinator], it's really killer. Tmuxinator allows you to - among other things - create configurations of tmux sessions and launch a number of configured session with a single command.
+Recently, my buddy [Josh][josh] turned me onto using [tmux][tmux] for better managing sessions of terminal windows. Tmux in itself is awesome, but combined with [tmuxinator][tmuxinator], it's really killer. Tmuxinator allows you to - among other things - create configurations of tmux sessions and launch a number of configured session with a single command.
 
 Let's look at a quick example of how that works. I'm working on a little side project right now - it's a web app, built in Angular with a MongoDB backend and using Grunt to do the build.
 
 Here's my tmuxinator configuration for the project, written in yaml:
 
-~~~
-name: tipping
-root: ~/Code/tipping/app
 
-windows:
-  - server:
-    layout: main-horizontal
-    panes:
-      -
-      - grunt serve
-  - database: mongod
-~~~
+    name: tipping
+    root: ~/Code/tipping/app
+
+    windows:
+      - server:
+        layout: main-horizontal
+          panes:
+            -
+            - grunt serve
+            - database: mongod
+
 
 When I run this (`mux start tipping`), I end up with the following:
 
@@ -51,21 +51,21 @@ How about that? It starts a tmux session, creates a window for the database, and
 
 So, tmuxinator is cool enough, but I stumbled on [a post][shellpost] that kicked it into high gear by creating a shell script for handling setup of other things that tmuxinator doesn't necessarily handle. This is a game changer. To take the tmuxinator concept and blow it out, I created a shell script that looks like this:
 
-~~~
-#!/bin/bash
 
-dir=/Users/jdavis1002/Code/tippingapp
-projectname = "Tipping"
+    #!/bin/bash
 
-atom $dir
+    dir=/Users/jdavis1002/Code/tippingapp
+    projectname = "Tipping"
 
-toggl stop
-toggle start $projectname
+    atom $dir
 
-open /Applications/Robomongo.app
-open https://github.com/jwd2a/tipping/issues
-tmuxinator tipping
-~~~
+    toggl stop
+    toggle start $projectname
+
+    open /Applications/Robomongo.app
+    open https://github.com/jwd2a/tipping/issues
+    tmuxinator tipping
+
 
 I stashed that file in `/.dotfiles/projectconfigs/tipping`, and symlinked my entire `/projectconfigs` directory to a directory on my PATH, and boom, we were in business.
 
