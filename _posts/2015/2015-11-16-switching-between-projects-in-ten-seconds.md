@@ -39,7 +39,7 @@ windows:
       panes:
         -
         - grunt serve
-        - database: mongo
+  - database: mongo
 
 ~~~
 
