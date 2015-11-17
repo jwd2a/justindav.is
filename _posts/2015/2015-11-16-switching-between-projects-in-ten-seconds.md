@@ -53,21 +53,23 @@ How about that? It starts a tmux session, creates a window for the database, and
 
 So, tmuxinator is cool enough, but I stumbled on [a post][shellpost] that kicked it into high gear by creating a shell script for handling setup of other things that tmuxinator doesn't necessarily handle. This is a game changer. To take the tmuxinator concept and blow it out, I created a shell script that looks like this:
 
+~~~
 
-    #!/bin/bash
+#!/bin/bash
 
-    dir=/Users/jdavis1002/Code/tippingapp
-    projectname = "Tipping"
+dir=/Users/jdavis1002/Code/tippingapp
+projectname = "Tipping"
 
-    atom $dir
+atom $dir
 
-    toggl stop
-    toggle start $projectname
+toggl stop
+toggle start $projectname
 
-    open /Applications/Robomongo.app
-    open https://github.com/jwd2a/tipping/issues
-    tmuxinator tipping
+open /Applications/Robomongo.app
+open https://github.com/jwd2a/tipping/issues
+tmuxinator tipping
 
+~~~
 
 I stashed that file in `/.dotfiles/projectconfigs/tipping`, and symlinked my entire `/projectconfigs` directory to a directory on my PATH, and boom, we were in business.
 
