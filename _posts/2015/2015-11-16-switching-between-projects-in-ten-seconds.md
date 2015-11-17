@@ -28,7 +28,8 @@ Let's look at a quick example of how that works. I'm working on a little side pr
 
 Here's my tmuxinator configuration for the project, written in yaml:
 
-```
+~~~
+
 name: tipping
 root: ~/Code/tipping/app
 
@@ -38,8 +39,9 @@ windows:
       panes:
         -
         - grunt serve
-        - database: mongod
-```
+        - database: mongo
+
+~~~
 
 When I run this (`mux start tipping`), I end up with the following:
 
