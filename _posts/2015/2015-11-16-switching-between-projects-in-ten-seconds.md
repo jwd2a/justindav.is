@@ -63,7 +63,7 @@ projectname = "Tipping"
 atom $dir
 
 toggl stop
-toggle start $projectname
+toggl start $projectname
 
 open /Applications/Robomongo.app
 open https://github.com/jwd2a/tipping/issues
