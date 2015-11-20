@@ -94,11 +94,11 @@ paths:
 
 To me, this just makes sense. A path - `/products` - with a set of nested methods underneath (`get`, `post`, etc.). Parameters are easy to define, as are responses. You'll also notice that `$ref` down there in the responses. That allows you to define a model and reference it on the responses - no more trying to update multiple response signatures when a model changes slightly. DRY FTW.
 
-As if the spec format itself isn't enough, Swagger brings with it a host of tooling as well. [Swagger UI] automatically builds documentation from the spec. [Swagger Codegen] automatically creates client libraries and server-side stubs from the spec (what?!). As if the official tools from Swagger aren't enough, there are [a whole host of projects on Github] offering tooling for the spec. Suffice to say, Swagger is the shit, and the way to document APIs IMO.
+As if the spec format itself isn't enough, Swagger brings with it a host of tooling as well. [Swagger UI][swaggerui] automatically builds documentation from the spec. [Swagger Codegen][swaggergen] automatically creates client libraries and server-side stubs from the spec (what?!). As if the official tools from Swagger aren't enough, there are [a whole host of projects on Github][swaggergh] offering tooling for the spec. Suffice to say, Swagger is the shit, and the way to document APIs IMO.
 
 Swagger is also helping to put ahead the [Open APIs][openapis] initiative, aiming to help create a standardized way of interacting with RESTful APIs between companies. Folks like Google, IBM, Apigee and others are on board, and it's great to see that kind of initiative shaping up. In today's ever-increasing service-oriented world, this kind of industry adoption of a single specification for defining the design of APIs is a huge step in the maturity of the field.
 
-I should note that I also look at [RAML], and just about went that direction for documenting the spec. RAML is also a Yaml-based way of doing things, and frankly, is somewhat similar to Swagger in some ways. When it came down to it, however, the wide amount of tooling already available for Swagger kicked it over the edge for me, and I'm really thrilled to be using it.
+I should note that I also looked at [RAML][raml], and just about went that direction for documenting the spec. RAML is also a Yaml-based way of doing things, and frankly, is somewhat similar to Swagger in some ways. When it came down to it, however, the wide amount of tooling already available for Swagger kicked it over the edge for me, and I'm really thrilled to be using it.
 
 ## Why This Is Important
 
@@ -111,5 +111,9 @@ Have you used Swagger or another documentation tool? Have success or horror stor
 [apiblueprint]: http://apiblueprint.com
 [markdownpp]: https://github.com/jreese/markdown-pp
 [openapis]: http://openapis.org
+[raml]: http://raml.org/
 [slate]: https://github.com/tripit/slate
 [swagger]: http://swagger.io
+[swaggergen]: https://github.com/swagger-api/swagger-codegen
+[swaggergh]:https://github.com/search?utf8=%E2%9C%93&q=swagger
+[swaggerui]: https://github.com/swagger-api/swagger-ui
