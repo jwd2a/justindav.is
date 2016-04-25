@@ -47,7 +47,9 @@ What I'm _not_, however, is a visual designer. I suck at it. So, I've hired some
 
 Between those pieces, I've got what I need to get this thing out into the world.
 
-From a tech perspective, here's how things line up. The app is built on AngularJS, running a Node/Mongo backend. The front uses Bootstrap (of course), and it's all hosted in a Docker container sitting on a Digital Ocean box. (BTW, I love Digital Ocean, you [should try them out][do]).
+From a tech perspective, here's how things line up. The app is built on AngularJS, running a Node/Mongo backend. The front uses Bootstrap (of course), and it's all hosted in a Docker container sitting on a Digital Ocean box.
+
+(BTW, I love Digital Ocean, you [should try them out][do]. Sign up with that link and get a $10 credit - two free months!)
 
 ## What's next
 
