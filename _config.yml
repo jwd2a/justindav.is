@@ -33,3 +33,16 @@ sass:
 gems:
   - jekyll-sitemap
   - jekyll-paginate
+
+# Defaults
+defaults:
+  - scope:
+      type: building_jampay
+    values:
+      layout: building_jampay
+
+# Collections
+collections:
+  building_jampay:
+    output: true
+    permalink: /building-jampay/:slug
