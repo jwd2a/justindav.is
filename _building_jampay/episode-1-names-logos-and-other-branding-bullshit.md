@@ -5,6 +5,8 @@ comments: true
 episode: 1
 ---
 
+(Did you miss the first episode of this series - Episide 0? [Check it out here.][ep0] Much better way to explore all these coming soon, I promise.)
+
 I might love nothing more than creating products and ushering them out into the world, but there's one part of it that I really don't like - naming the damn thing, and creating all the logo and branding that goes along with it.
 
 I get it, names are important, but since usually suck at coming up with them, I tend to downplay their importance. Nonetheless, you've got to have a name, and so off we go.
@@ -98,3 +100,4 @@ We'll cover that one in the next episode!
 [betalist]: http://betalist.com/startups/jampay
 [upwork]: http://www.upwork.com
 [jptwitter]: http://twitter.com/gojampay
+[ep0]: http://justindavis.co/building-jampay/episode-0-lets-get-started.html
