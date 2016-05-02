@@ -21,7 +21,7 @@ To me, it's not that much of a secret or art. Names, to me, should satisfy the f
 - They're sufficiently differentiated from other names and concepts, so as to support creating a brand around. This is especially true for products. Calling your camera Digital Camera 1000 isn't going to cut it. Calling it PixSnap - however lame - at least carves out some space to build branding around.
 - For web-based products, the domain should be easy to spell, and ideally, short. To be honest, this is more about making it easy to fit on marketing collateral than some notion that people remember short names better (people are going to remember architectureworld.com better than b1dgwld.com, most likely).
 
-For [jampay][jampay], there was one other important consideration when choosing the name: it had to be clearly understood when said from a stage in a noisy club, so much so that someone could find the site after hearing it once. This immediately disqualified clever things like tip.ly.
+For [Jampay][jampay], there was one other important consideration when choosing the name: it had to be clearly understood when said from a stage in a noisy club, so much so that someone could find the site after hearing it once. This immediately disqualified clever things like tip.ly.
 
 I went through the typical process: listed out a bunch of words that had to do with music, tipping, payment, etc. Most domains were taken, too awkward, or just weird sounding (domains with double letters, like tippay.com were also avoided).
 
