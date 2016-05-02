@@ -8,6 +8,7 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  padding: 0px 30px;
 }
 
 .jampay-header h1 {
@@ -30,6 +31,7 @@
   text-shadow: 2px 2px black;
   margin: 0;
   padding: 20px 0 50px;
+  text-align: center;
 }
 
 .jampay-header h3 {
