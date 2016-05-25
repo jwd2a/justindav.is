@@ -46,7 +46,7 @@ But, let's dig in further. I set up a custom event on the signup button, to see 
 
 ![jampay conversions](https://dl.dropbox.com/s/y8mcr3en01y8mvt/Screenshot%202016-05-24%2017.29.22.png?dl=0)
 
-Alright, so, 17, 11 of which were unique. That gives us around a 9% conversion rate, which isn't horribad, but honestly means almost nothing with this low amount of traffic and zero marketing efforts. We'll come back to that number soon as we ramp up traffic.
+Alright, so, 17, 11 of which were unique. That turned into five users, giving us around a 5% conversion rate (and about a 50% conversion rate through the signup page), not great at all, but honestly means almost nothing with this low amount of traffic and zero marketing efforts. We'll come back to that number soon as we ramp up traffic.
 
 One more interesting morsel. I'm always interested in knowing how traffic gets to the site, especially organic search traffic. Let's take a look at that:
 
