@@ -18,7 +18,7 @@ Let's take another example. We've got a list of employees, and each employee can
 
 Luckily, this kind of deep filtering is a piece of cake in Angular. We can use a similar syntax to [mongo](https://docs.mongodb.com/v3.2/tutorial/query-documents/#specify-conditions-using-query-operators), and simply specify the path we want to match on. Check the example:
 
-<p data-height="265" data-theme-id="0" data-slug-hash="VmVdNj" data-default-tab="result" data-user="jwd2a" data-embed-version="2" data-pen-title="Angular Deep Array Filtering" class="codepen">See the Pen <a href="http://codepen.io/jwd2a/pen/VmVdNj/">Angular Deep Array Filtering</a> by Justin Davis (<a href="http://codepen.io/jwd2a">@jwd2a</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p data-height="265" data-theme-id="0" data-slug-hash="VmVdNj" data-default-tab="html,result" data-user="jwd2a" data-embed-version="2" data-pen-title="Angular Deep Array Filtering" class="codepen">See the Pen <a href="http://codepen.io/jwd2a/pen/VmVdNj/">Angular Deep Array Filtering</a> by Justin Davis (<a href="http://codepen.io/jwd2a">@jwd2a</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 Here, we're setting up our filter like this: `filter:{'departments': {'name': dept}}`, which lets us find only the objects in the department array with the `name` that matches. Because we're specific on how we write this path, it won't match on things we don't want it to, like descriptions that have the same word.  
