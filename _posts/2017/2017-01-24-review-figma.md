@@ -71,7 +71,7 @@ Have you tried Figma? What are your impressions? Anything I missed in my assessm
 [componenttweet]: https://twitter.com/jwd2a/status/816381444595404801
 [sketchmock]: https://github.com/preciousforever/sketch-data-populator
 [invisionsketch]: https://www.invisionapp.com/craft
-[funding]: https://techcrunch.com/2015/14/03/figma-vs-goliath/
+[funding]: https://techcrunch.com/2015/12/03/figma-vs-goliath/
 [osxsnobs]: https://www.sketchapp.com/support/faq/#platforms
 
 
