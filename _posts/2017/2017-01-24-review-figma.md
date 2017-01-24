@@ -15,7 +15,7 @@ When I first found Figma, the first thing that immediately caught me was the ani
 
 The collaboration! The speed of iteration! The clean UI and sleek toolset! To be honest, I was pretty immediately captured by this whole thing, and dove in to take a look. Now, after having used it for about 6 weeks, and having produced a number of artifacts in it, I've got a fairly good handle on what it does well, and where it could use a bit of help. Let's take a look.
 
-##The Good##
+##The Good
 
 It's hard to talk about the good things in Figma without mentioning performance. In short, it's quite stunning. I'm generally pretty suspicious about browser-based applications like this, especially ones that attempt to emulate a desktop-only piece of software like Sketch. I figured it'd fall prey to typical issues like a laggy UI, less-than-smooth transitions, and other trappings of having to operate in the limited memory space of a browser tab. 
 
@@ -39,7 +39,7 @@ Overall, there's a lot to like about Figma, especially in the performance depart
 
 That said, there are definitely some places where improvement is needed, so let's give a fair shake to both sides and look at those items.
 
-##The Not So Good##
+##The Not So Good
 
 If there are any places where Figma falls down, it can be summed up in a couple words: workflow and integration. 
 
