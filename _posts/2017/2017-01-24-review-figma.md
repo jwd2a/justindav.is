@@ -53,7 +53,7 @@ Finally, let's talk about documentation. This isn't something I'd normally be a 
 
 ![figmahelp](https://dl.dropbox.com/s/ub8qz2qpodvyoi0/Screenshot%202017-01-24%2011.06.48.png)
 
-In short, my biggest issues with Figma are that it just feels _immature_. For a company that has [$12 Million][funding] in funding, I'd expect a bit more rapid development of some of these parts of the tool, and a bit more parity with Sketch on these areas. Sure, they've got additional challenges being browser-based (but also some distinct advantages), but such is the bed that they decided to lay in. At the end of the day, designers will choose the tool that offers them the ability to work more quickly, iterate faster, and produce higher quality work. 
+In short, my biggest issues with Figma are that it just feels _immature_. For a company that has [$14 Million][funding] in funding, I'd expect a bit more rapid development of some of these parts of the tool, and a bit more parity with Sketch on these areas. Sure, they've got additional challenges being browser-based (but also some distinct advantages), but such is the bed that they decided to lay in. At the end of the day, designers will choose the tool that offers them the ability to work more quickly, iterate faster, and produce higher quality work. 
 
 As for me? I'm still undecided. Figma's working alright for me, but would I pay monthly for it? (It's currently free, until sometime this year) I'm unsure. $99 for Sketch, and I've got an incredibly robust tool (if tied to MacOS). I think Figma is going to have to do some work to get closer to their feature set before it's a clear winner. 
 
@@ -71,7 +71,7 @@ Have you tried Figma? What are your impressions? Anything I missed in my assessm
 [componenttweet]: https://twitter.com/jwd2a/status/816381444595404801
 [sketchmock]: https://github.com/preciousforever/sketch-data-populator
 [invisionsketch]: https://www.invisionapp.com/craft
-[funding]: https://techcrunch.com/2015/12/03/figma-vs-goliath/
+[funding]: https://techcrunch.com/2015/14/03/figma-vs-goliath/
 [osxsnobs]: https://www.sketchapp.com/support/faq/#platforms
 
 
