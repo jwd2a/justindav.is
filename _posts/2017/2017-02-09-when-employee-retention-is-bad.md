@@ -15,7 +15,7 @@ Assuming these employees that are sticking around are still doing their job, not
 
 Back to my friend's company. As I was talking to some of their devs, and looking at some of their products, I couldn't help but notice: everything was mediocre. No real risks being taken, no real new ideas. Sure, things were stable enough, but decidedly unexciting. Conversations with the employees was punctuated with trappings of long-term culture, while talk about how "that couldn't be done, we tried that years ago" gave me an unsettling feeling that the whole enterprise was just lumbering on. 
 
-**Alive, but not living.**
+*Alive, but not living.*
 
 This is the problem with long-tenured employees. Like a pond that grows stagnant due to lack of water movement, so does an organization get stagnant due to a lack of talent movement. Ideas fall into the same ruts. Conversations follow the same patterns. Things that have tried and failed before aren't experimented with again. Desparate to protect the status quo, and hampered by organizational habit, things plod along slowly. The fish in the pond are still living, but they're swimming slower and slower every year. 
 
