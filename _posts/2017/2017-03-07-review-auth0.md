@@ -70,6 +70,8 @@ In short, I'd definitely recommend checking them out. It's hard to think of many
 
 Have you had experience with Auth0? Did I miss an important part of considering a service like this? Leave it in the comments!
 
+[BTW - I also checked out [Stormpath][stormpath] during my investigation of providers for identity management. Their pricing wasn't quite as good, and they've since been acquired by [Okta][okta], so I'm unsure how that'll settle. If you've had experience with them, comment and let me know!]
+
 [auth0]:https://auth0.com
 [dashboard]: https://dl.dropbox.com/s/iqmqt96tvseenbw/Screenshot%202017-03-07%2011.27.16.png
 [lockui]: https://cdn.auth0.com/docs/media/articles/libraries/lock/lock-default.png
@@ -79,4 +81,5 @@ Have you had experience with Auth0? Did I miss an important part of considering 
 [nodesdk]: https://github.com/auth0/node-auth0
 [tokens]: https://auth0.com/docs/api/management/v2/tokens-flows
 [pricing]: https://auth0.com/pricing
-
+[stormpath]: https://stormpath.com
+[okta]: https://okta.com
