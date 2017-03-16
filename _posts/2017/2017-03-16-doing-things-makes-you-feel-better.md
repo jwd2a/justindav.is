@@ -35,10 +35,11 @@ I know what you're thinking. "Um, I'm totally fine sitting and doing nothing. I 
 
 ## The Virtues of Hobbies and Side Projects
 
-I'm a big fan of having hobbies and working on side projects. At any given time, I've got a number of things going on to keep me busy, and keep my mind sharp. Whether it's brewing beer, [building random web apps][jampay], playing golf, or something else, those activities help to bring meaning into my life by giving me goals to struggle for. I think that everyone needs to have these kind of things in their life, in order to bring more richness and variety, as well as providing outlets for staying active (mentually, emotionally and physically) outside of the day-to-day work life. On a Sunday afternoon, it's those activities you can turn to, in order to fill the void. 
+I'm a big fan of having hobbies and working on side projects. At any given time, I've got a number of things going on to keep me busy, and keep my mind sharp. Whether it's brewing beer, [building random web apps][jampay], playing golf, or something else, those activities help to bring meaning into my life by giving me goals to struggle for. I think that everyone needs to have these kind of things in their life, in order to bring more richness and variety, as well as providing outlets for staying active (mentally, emotionally and physically) outside of the day-to-day work life. On a Sunday afternoon, it's those activities you can turn to, in order to fill the void. 
 
 ## Feeling Down? Do Something. Anything
 
 Next time you're feeling down, find _something_ to do. Pry yourself off the couch, and clean under your bathroom sink. Write a blog post. Take a walk around the neighborhood. Instead of sitting and aimlessly browsing Facebook while HGTV blares in the background, find something intentional to get involved in, however small. Trust me, you'll instantly feel better. 
 
 [medium]: https://byrslf.co/when-you-are-depressed-make-something-49467edd1933#.msek87o5e
+[jampay]: https://jampay.com
