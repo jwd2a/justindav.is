@@ -26,7 +26,7 @@ If you're running a dry cleaners, the story might be different. You might not kn
 
 ## Shut up and SQL
 
-In the breakneck world of technical startups, speed and agility is keep. The faster you can get information, the faster you can win, period. That's why everyone in the organization should have access to, and the ability to query, all your databases that contain any user information (ensuring you're respecting your local privacy and HIIPA laws where necessary). This means that everyone should be able to write basic queries to be able to answer their questions, instead of waiting on some IT donk gatekeeper to relunctantly agree to the request.
+In the breakneck world of technical startups, speed and agility is key. The faster you can get information, the faster you can win, period. That's why everyone in the organization should have access to, and the ability to query, all your databases that contain any user information (ensuring you're respecting your local privacy and HIIPA laws where necessary). This means that everyone should be able to write basic queries to be able to answer their questions, instead of waiting on some IT donk gatekeeper to relunctantly agree to the request.
 
 Don't let your important business decision making power be locked up behind a guy with a database power complex. Democratize access to important business data as much as possible. 
 
