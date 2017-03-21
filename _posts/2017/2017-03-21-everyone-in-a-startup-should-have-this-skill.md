@@ -11,10 +11,10 @@ This is going to come as a shock. Everyone in a startup - especially in the earl
 
 Here's the deal. At any given time in a startup, you're going to have about a million questions:
 
-"Are users using that feature?"
-"For that last campaign we ran, did it affect engagement on that particular page?"
-"How many items are users uploading on average?"
-"Is that upsell path working? For what kinds of users?"
+- "Are users using that feature?"
+- "For that last campaign we ran, did it affect engagement on that particular page?"
+- "How many items are users uploading on average?"
+- "Is that upsell path working? For what kinds of users?"
 
 And so on. Every day, you're coming up with a new question that's almost always borne out of business requirements, marketing requirements, or product questions. Questions that you _do_ have the ability to answer...with the right data. 
 
