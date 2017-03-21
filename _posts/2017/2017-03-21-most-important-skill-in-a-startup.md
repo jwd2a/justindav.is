@@ -30,6 +30,10 @@ In the breakneck world of technical startups, speed and agility is keep. The fas
 
 Don't let your important business decision making power be locked up behind a guy with a database power complex. Democratize access to important business data as much as possible. 
 
+## Can't IT Just Do This?
+
+Sure, if you want everything to take forever. Just kidding, not a knock on IT, but it's still true. IT's busy doing a lot - keeping things humming along, developing new features, fixing bugs. When you leave a meeting with a key question, do you want to wait a few days to get in their queue, or just head back to your office, fire off a quick query, get your information and move on? Thought so.
+
 ## How To Start
 
 So, how do you start to do this? Chances are, for most people reading this who aren't the devs in charge of the databases, you don't know thing one about where the database is and how to use it. Totally natural, totally normal. 
