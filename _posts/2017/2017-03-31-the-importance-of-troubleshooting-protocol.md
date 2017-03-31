@@ -35,6 +35,8 @@ Step 2: Is the boat in neutral? With the boat in gear, the motor won't turn over
 
 Welp. Shit. Turns out, the throttle was shifted slightly forward, preventing the motor from starting. I shifted back into neutral, and boom, she turned over like the day she left the factory floor.
 
+Turns out, I'd spent two weeks off the water, and replaced the entire ignition assembly because the boat wasn't in neutral. You have to be kidding me. 
+
 ## The Power of Protocol 
 
 When troubleshooting, there are known steps for identifying and fixing a problem. Other people have usually had a very similar problem, and they've put together a set of steps to walk through for identifying what's likely wrong. Whether it's trying to figure out why a boat won't start, trying to solve a medical issue, or trying to figure out why your company is losing cash, there are best practices and steps for walking through the problem methodically and eliminating causes.
