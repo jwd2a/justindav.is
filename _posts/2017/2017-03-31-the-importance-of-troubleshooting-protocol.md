@@ -17,7 +17,7 @@ Several months ago, after we'd bought the boat used, I noticed something odd. Th
 
 Back to the boat ramp.
 
-With the boat now pulled out of the water, I decided that this is it - the melting rubber has finally killed the iginition, and we need to replace it. A trip to West Marine, and we had a new ignition in hand. 
+With the boat now pulled out of the water, I decided that this is it - the melting rubber has finally killed the ignition, and we need to replace it. A trip to West Marine, and we had a new ignition in hand. 
 
 ## Troubleshooting 101
 
