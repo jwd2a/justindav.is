@@ -44,7 +44,7 @@ Your product is no different.
 
 Requirements have their place. Requirements are a great way to double-check to ensure you've got full feature coverage. They're a great way to structure development tasks. What they're not good at is painting the idea about the product experience. Because requirements aren't sequential, showing how an experience unfolds over time, they require a heavy amount of interpretation and synthesis to assemble them into a cohesive narrative. Looking at a disparate list of requirements is akin to getting individual sentences of a story, and trying to piece them together in the right order to make sense of it. There's a fair chance you'll get it wrong, or misunderstand how the parts come together. 
 
-With a narrative, that leap of synthesis is eliminated. The story tells us about the experience, and we can map parts of that story _back_ to requirements in order to provide more context ("A rogue employee steams embryos (see Requirement 4 and 5)"). These two artifacts can work together to tell the story and provide the details, but without the narrative, the strict list of requirements lacks the context that a product designer needs to fully understand how the experience should unfold. 
+With a narrative, that leap of synthesis is eliminated. The story tells us about the experience, and we can map parts of that story _back_ to requirements in order to provide more context ("A rogue employee steals embryos (see Requirement 4 and 5)"). These two artifacts can work together to tell the story and provide the details, but without the narrative, the strict list of requirements lacks the context that a product designer needs to fully understand how the experience should unfold. 
 
 ## This Is About Knowledge Transfer
 
