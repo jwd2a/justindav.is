@@ -4,6 +4,11 @@ td {
 
 table {
   margin-bottom: 20px;
+	font-size: .8em;
+}
+
+thead {
+	text-align: left;
 }
 
 code {
@@ -18,4 +23,8 @@ pre {
   code {
     background-color: transparent;
   }
+}
+
+tr:nth-child(even) {
+	background-color: #eee;
 }
