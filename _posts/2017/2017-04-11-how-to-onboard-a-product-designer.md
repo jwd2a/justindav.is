@@ -13,7 +13,7 @@ Not so much. There's a right way, and a wrong way, to onboard a product designer
 
 ## The BRD Approach
 
-I've seen this a lot. Company X hires a designer, or gets someone internal to help, and the initial meeting is a 90-page deck of requirements dropped into the middle of the table. "There ya go, that's what you need to design". While it's understandable that, for the stakeholders, this approach appears to be comprehensive, it's fundamentally flawed. To illustrate this, let's look at how we might create a BRD of a movie that needs to be made:
+I've seen this a lot. Company X hires a designer, or gets someone internal to help, and the initial meeting is a 90-page deck of requirements dropped into the middle of the table. "There ya go, that's what you need to design". While it's understandable that, for the stakeholders, this approach appears to be comprehensive, it's fundamentally flawed. To illustrate this, let's look at how we might create a BRD (Business Requirements Document) of a movie that needs to be made:
 
 |ID		|Requirement       |
 |-----|------------------|
