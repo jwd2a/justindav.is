@@ -65,7 +65,7 @@ So far, we've been without cable for three months, and I really haven't noticed 
 
 Do you have any secrets from your cord cutting experience? Share them in the comments!
 
-[sling]: http://slingtv.com
+[sling]: http://www.dpbolvw.net/click-8346039-12175633
 [psvue]: https://www.playstation.com/en-us/network/vue/
 [junction]: https://dl.dropbox.com/s/rmzdoi2edr806sj/IMG_0561.JPG
 [junctionopen]: https://dl.dropbox.com/s/q2x28sghmh73tec/IMG_0562.JPG
