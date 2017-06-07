@@ -19,6 +19,10 @@ So what? You're happy with dragging your code into your FTP client, or rsync'ing
 
 Here inlines the problem. When you ship code daily, your iteration cycles are _tight_. Ship code, get feedback that day, ship modifications tomorrow. When you ship once a week, or once a month, you're delaying that loop. Every completion of the ship-iterate-ship cycle is an incremental step toward better product/market fit, which means more customers. When you slow down the loop, _everything else in the business slows down_: sales, product development, marketing....everything.
 
+## Two Factors
+
+There are two factors that affect your ability to ship: culture, and infrastructure. While this post is mainly aimed at the infrastructure side, it should be noted that a faster deployment pipeline and the requisite DevOps that it takes to make that work smoothly, is an outcrop of your product culture. Find people who value shipping and want to learn from customers faster, and much of this stuff will fall out naturally. 
+
 ## How We Do It
 
 So, what do faster shipping cycles look like, and how are they supported by DevOps? The most backstage look I can give you is a [product I'm working on][cs] with my buddy [Josh][josh] and a couple other talented dudes. Josh (aka, DevOps Jesus) has set up an amazing framework to make getting code deployed as easy as possible. Here's a few things we do to get code out the door faster:
@@ -30,6 +34,8 @@ So, what do faster shipping cycles look like, and how are they supported by DevO
 
 Not only can we ship any part of the application from Slack, but we can also ask for the `shipstats`, which keeps a friendly competition amongst who's shipping to production more often. Ingrained in the culture is a drive to get things out the door, and we use the bot to help cultivate that.
 - *Smaller, independent components*: Our codebase is broken into 5 discreet services: `www` (the website), `api` (the API that serves as the backend entry point), `app` (the Angular frontend), `admin` (the admin side of the api) and `assets` (CSS, images, etc). This allows us to ship from smaller components, instead of needing to test and ship the entire thing every time. 
+
+TBH, we haven't yet gotten to putting together a continuous integration pipeline, but that's in the works. Always improving. 
 
 Putting this framework and architecture together took maybe a week and a half or so, very part-time. It's not about being overly sophisticated, it's about architecting and engineering things to make sure you can get code off your laptop and into the world as quickly as possible.
 
