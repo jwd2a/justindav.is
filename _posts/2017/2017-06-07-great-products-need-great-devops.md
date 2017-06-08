@@ -17,7 +17,7 @@ How you get code from a developer's laptop (whether that's you or someone else) 
 
 So what? You're happy with dragging your code into your FTP client, or rsync'ing it to your server every few weeks or so. What's the problem? The problem is, the rest of the world is kicking your ass when it comes to shipping code. In [their latest report on the state of DevOps][report], [Puppet][puppet] noted that the best-in-class companies are shipping code to production _multiple times a day_. The medium and low performers are shipping once a week, or worse, once a month. 
 
-Here inlines the problem. When you ship code daily, your iteration cycles are _tight_. Ship code, get feedback that day, ship modifications tomorrow. When you ship once a week, or once a month, you're delaying that loop. Every completion of the ship-iterate-ship cycle is an incremental step toward better product/market fit, which means more customers. When you slow down the loop, _everything else in the business slows down_: sales, product development, marketing....everything.
+Herein lies the problem. When you ship code daily, your iteration cycles are _tight_. Ship code, get feedback that day, ship modifications tomorrow. When you ship once a week, or once a month, you're delaying that loop. Every completion of the ship-iterate-ship cycle is an incremental step toward better product/market fit, which means more customers. When you slow down the loop, _everything else in the business slows down_: sales, product development, marketing....everything.
 
 ## Two Factors
 
