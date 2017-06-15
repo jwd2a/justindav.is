@@ -46,7 +46,7 @@ export class MyComponent implements OnInit {
 }
 ```
 
-A couple things to note. First, we declare `$` as a variable in the component that we can use (note that this is a typescript thing, if you're not using typescript, you likely won't need this), and give it a type of `any`. Then, in our `ngOnInit` method on the component, we call `$(document).foundation()`, which tells Foundation to reinitialize and bind to the DOM again. Since our component's HTML is now in the DOM, it finds the attributes, binds the listeners, and you're in business!
+A couple things to note. First, we declare `$` as a variable in the component that we can use (note that this is a typescript thing, if you're not using typescript, you likely won't need this), and give it a type of `any`. This gives us access to jQuery, which is needed to call Foundation. Then, in our `ngOnInit` method on the component, we call `$(document).foundation()`, which tells Foundation to reinitialize and bind to the DOM again. Since our component's HTML is now in the DOM, it finds the attributes, binds the listeners, and you're in business!
 
 This should work for Angular 2 and above, and for Foundation for Sites 6.X. Other versions, YMMV.
 
