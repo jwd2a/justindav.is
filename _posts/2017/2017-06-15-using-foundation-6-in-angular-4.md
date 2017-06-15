@@ -27,7 +27,7 @@ Here's the problem. With Angular, components are injected into the DOM after Fou
 
 Here's how we do it. Our super simple Angular 2+ component looks like this:
 
-```javascsript
+```javascript
 { import Component } from '@angular/core';
 declare var $:any
 
