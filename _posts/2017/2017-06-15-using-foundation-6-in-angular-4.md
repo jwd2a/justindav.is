@@ -51,6 +51,6 @@ A couple things to note. First, we declare `$` as a variable in the component th
 This should work for Angular 2 and above, and for Foundation for Sites 6.X. Other versions, YMMV.
 
 [crowdsync]: https://crowdsync.io
-[typescript]: http://www.typescriptlang.org/
+[ts]: http://www.typescriptlang.org/
 [doodlemarks]: https://twitter.com/doodlemarks
 [foundation]: http://foundation.zurb.com/sites/docs/
