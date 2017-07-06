@@ -27,12 +27,13 @@ Not just that, but your work is now reusable _across_ the organization. Got a co
 
 ## So, What to Learn?
 
-First up, let's get this out of the way. You're not becoming a programmer. You're not learning to build apps or full-fledged systems (unless you want to, but that's a whole different conversation). You're writing scripts. Learning a language like [javascript][js] and some basic programming concepts (if/then, loops, variables), can take you a LONG way. There are packages out there to help you do everything, from [formatting and creating spreadsheets][exceljs] to [scraping the web][scraper]. Plugging these together in a simple 30-line script can save you hours of work down the line, and create valuable piece of infrastructure for your company, should they choose to build on it. 
+First up, let's get this out of the way. You're not becoming a programmer. You're not learning to build apps or full-fledged systems (unless you want to, but that's a whole different conversation). You're writing scripts. Learning a language like [JavaScript][js] and some basic programming concepts (if/then, loops, variables), can take you a LONG way. There are packages out there to help you do everything, from [formatting and creating spreadsheets][exceljs] to [scraping the web][scraper]. Plugging these together in a simple 30-line script can save you hours of work down the line, and create valuable piece of infrastructure for your company, should they choose to build on it. 
 
 If I were just starting out on this path, I'd go straight to JavaScript, learning enough to do some simple tasks (try taking a spreadsheet, and capitalizing all the names in the "First Name" column), and start to build from there. Yes, you're learning to code, but not for the reasons everyone else says. You're learning to code because you can make your own job easier and higher quality. 
 
-It's cliche', but it's true: stop working harder, and start working smarter. Learning to automate parts of your job is one of the best ways to do just that.
+It's cliche', but it's true: stop working harder, and start working smarter. Learning to automate parts of your job is one of the best ways to do just that. Next time you find yourself doing another repetitive task, stop and ask yourself if a computer should do this for you. Most of the time, the answer will be yes. 
 
+Do you have any stories of automation? Written any scripts that shaved hours off your workday? Share your experiences in the comments!
 
 [skillcrush]: https://skillcrush.com/2015/01/28/laurence-bradford-10-reasons/
 [techcrunch]: https://techcrunch.com/2016/05/10/please-dont-learn-to-code/
