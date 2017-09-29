@@ -96,7 +96,7 @@ At the end of the day, it's about the money and time you're burning. Dollars per
 mistake (as a function of time) is a good metric for seeing how efficient you
 are at getting to the right solution.
 
-Next time you need to build sometime, stop and take it to a whiteboard, and see
+Next time you need to build something, stop and take it to a whiteboard, and see
 if that's enough. I bet you'll be surprised. 
 
 [sunkcost]: https://youarenotsosmart.com/2011/03/25/the-sunk-cost-fallacy/
