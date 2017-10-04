@@ -55,5 +55,5 @@ Next time you read something you enjoy, make sure to share it. On
 Why not start with this post?
 
 [madera]: http://maderalabs.com
-[twitter]:https://twitter.com/intent/tweet?text=Sharing%20is%20the%20currency%20of%20the%20Web%20by%20Justin%20Davis:%20http://justindavis.co/2017/10/04/sharing-is-the-currency-of-the-web
+[twitter]:https://twitter.com/intent/tweet?text=Sharing%20is%20the%20Currency%20of%20the%20Web%20by%20Justin%20Davis:%20http://justindavis.co/2017/10/04/sharing-is-the-currency-of-the-web
 [facebook]:https://www.facebook.com/sharer/sharer.php?u=http://justindavis.co/sharing-is-the-currency-of-the-web
