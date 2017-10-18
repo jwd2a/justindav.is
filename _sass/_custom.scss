@@ -28,3 +28,23 @@ pre {
 tr:nth-child(even) {
 	background-color: #eee;
 }
+
+.post {
+  margin-bottom: 100px;
+}
+
+.site-header {
+  margin-top: 50px;
+}
+
+.ads {
+  img {
+    margin-bottom: 30px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .content {
+    width: 1400px;
+  }
+}
