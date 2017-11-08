@@ -47,6 +47,8 @@ But, if you want to lock in a crazy good deal, check this out. You can hit us up
 before December 1st, and we'll lock you in at $19/mo FOR LIFE. That's right -
 you'll never pay any more than that to use CrowdSync, for as long as you want. 
 
+If you want to take advantage of this, [hit us up here][csoffer].
+
 So, I definitely encourage you to [go give the beta a spin][cssignup] and make
 sure to read [our blog post][cslaunchpost] about what to expect from it in the
 next few months. We're just getting started, to say the least. 
@@ -54,4 +56,5 @@ next few months. We're just getting started, to say the least.
 [cs]: https://www.crowdsync.io
 [joshtronic]: https://joshtronic.com
 [cslaunchpost]: https://www.crowdsync.io/blog/2017/11/08/announcing-our-open-beta/
+[csoffer]: https://goo.gl/forms/Ih5TcqJziOyWYBP12
 [cssignup]: https://app.crowdsync.io/signup
