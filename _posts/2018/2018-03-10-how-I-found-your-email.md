@@ -76,6 +76,20 @@ often right there on page 1, or somewhere in the citations or author bios on the
 paper. Since many papers are freely available online, this is a pretty easy
 place to snag contact information.
 
+## The Wayback Machine
+
+Had a website a few years ago, and the domain lapsed? Or, had your email on your
+site, but took it off later? A simple trip to [archive.org][archive] and we're
+able to look back in the past and find things that don't exist today, including
+your email.
+
+## Guessing
+
+Most email addresses follow an incredibly predictable format.
+[first].[last]@company.com, or [f][last]@company.com, or [first]@company.com, or
+[first].[last]@gmail.com. We'll often just try to brute force these, knowing
+we'll still end up with about an 80% hit rate.
+
 ## How to Not Get Found
 
 If you don't want to get cold emails from startups like us, I'd recommend
@@ -83,6 +97,7 @@ thinking of this as a checklist. Go through each of these places, and scrub up
 where you have your contact information littered out there. It'll make our job
 harder, and keep your privacy intact.
 
+[archive]: https://archive.org
 [behance]: https://www.behance.net
 [coldpost]: http://justindavis.co/2018/03/13/why-im-cold-emailing-you/
 [dribbble]: https://www.dribbble.com
