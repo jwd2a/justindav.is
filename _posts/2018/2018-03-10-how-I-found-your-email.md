@@ -83,3 +83,8 @@ thinking of this as a checklist. Go through each of these places, and scrub up
 where you have your contact information littered out there. It'll make our job
 harder, and keep your privacy intact.
 
+[behance]: https://www.behance.net
+[coldpost]: http://justindavis.co/2018/03/13/why-im-cold-emailing-you/
+[dribbble]: https://www.dribbble.com
+[twitter]: https://www.twitter.com
+[cs]: https://crowdsync.io
