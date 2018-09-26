@@ -50,7 +50,7 @@ struggling with, or anything you want to just vent about or kick around.
 
 Talk with you soon!
 
-[cartalk]: https://cartalk.com
+[cartalk]: https://www.cartalk.com
 [dave]: https://daveramsey.com
 [dbc]: http://dbcshow.com
 [matt]: https://twitter.com/mgrocki
