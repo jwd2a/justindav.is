@@ -34,7 +34,7 @@ of the most interactive and fun podcasts about tech in the world.
 
 To call in, simply dial 813-485-4866. You'll get a voicemail. Leave your
 information, and we'll work with you to schedule you on the show. If you're not
-the calling type, you can email us at [ask@dbcshow.com][mailto:ask@dbcshow.com],
+the calling type, you can email us at [ask@dbcshow.com](mailto:ask@dbcshow.com),
 and shoot us your questions there.
 
 ## Subscribe and Follow
@@ -43,14 +43,14 @@ To subscribe to the podcast, just visit [dbcshow.com][dbc], where you'll find
 links to iTunes, Google Play Music, and Stitcher. Make sure you subscribe!
 
 To follow what we're doing on Twitter, you can check us out at
-[@thedbcshow][https://twitter.com/thedbcshow].
+[@thedbcshow](https://twitter.com/thedbcshow).
 
 We can't wait to talk to you on air, and help you out with anything you're
 struggling with, or anything you want to just vent about or kick around. 
 
 Talk with you soon!
 
-[cartalk]: cartalk.com
-[dave]: daveramsey.com
-[dbc]: dbcshow.com
+[cartalk]: https://cartalk.com
+[dave]: https://daveramsey.com
+[dbc]: http://dbcshow.com
 [matt]: https://twitter.com/mgrocki
