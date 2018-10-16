@@ -1,9 +1,7 @@
 ---
-title: Why We Switched From Angular to React
-author: justin
 layout: post
+title: Why We Switched From Angular to React
 comments: true
-header: stock/negativespace-34676-pexels.jpg
 ---
 
 When we started building [CrowdSync][cs], we started building it using Angular v4.0. Angular had recently gone through a major transformation between 1 and 2, and the subsequent 4.0 version (yeah, they [skipped][nov3] v3) was a further upgrade to the framework. The new version of Angular was much more component-based, and overall a big improvement over Angular 1. Seemed like a perfect choice.

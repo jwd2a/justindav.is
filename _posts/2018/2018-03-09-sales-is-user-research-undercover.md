@@ -1,9 +1,7 @@
 ---
 layout: post
 title: "Sales is User Research, Undercover"
-author: justin
 comments: true
-header: stock/rawpixel-630839-pexels.jpg
 ---
 
 When you do a demo or sales call, what's your goal? Closing the deal and getting

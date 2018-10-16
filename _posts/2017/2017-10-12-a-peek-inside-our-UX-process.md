@@ -1,9 +1,7 @@
 ---
-title: A Peek Inside our UX Process
-author: justin
 layout: post
+title: A Peek Inside our UX Process
 comments: true
-header: stock/viktor-hanacek-website-layout-wireframe-ideas-sketched-on-paper-picjumbo.jpg
 ---
 
 As we continue to build [CrowdSync][cs], we're constantly needing to come up
@@ -153,5 +151,3 @@ Next issue!
 [volumestudies]: https://dl.dropbox.com/s/xknnx11ffhji9tw/volume%20studies.JPG
 [thumbnails]: https://dl.dropbox.com/s/mehubnxbgeq1t8g/thumbnails.JPG
 [finalsketch]: https://dl.dropbox.com/s/i837ec79ociy05m/final%20sketch.JPG
-
-

@@ -1,9 +1,7 @@
 ---
-title: How to Know What Features to Kill
-author: justin
 layout: post
+title: How to Know What Features to Kill
 comments: true
-header: stock/drippycat-1417871-pixabay.jpg
 ---
 
 When you build, and eventually maintain, a product, you'll eventually have to

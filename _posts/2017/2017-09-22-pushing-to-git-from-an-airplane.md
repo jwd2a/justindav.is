@@ -1,9 +1,7 @@
 ---
-title: How to Push to Git from an Airplane
-author: justin
 layout: post
+title: How to Push to Git from an Airplane
 comments: true
-header: stock/joffi-1685092-pixabay.jpg
 ---
 
 Look, sometimes, you need to work wherever you can. I found myself in a similar

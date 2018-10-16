@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Three Ways to Start Talking to Users
-author: justin
 comments: true
-header: stock/422737-633057-pixabay.jpg
 ---
 
 If there's anything that startups don't do enough, it's talk to users. Sure, you

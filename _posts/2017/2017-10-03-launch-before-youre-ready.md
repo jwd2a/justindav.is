@@ -1,9 +1,7 @@
 ---
-title: Launch Before You're Ready
-author: justin
 layout: post
+title: Launch Before You're Ready
 comments: true
-header: stock/nasa-imagery-970-pixabay.jpg
 ---
 
 We launched.
