@@ -70,7 +70,7 @@ expectations and the nature of our desire all play a part in the kind, and
 quality of sex that we have. 
 
 You're probably going to have sex with your partner at some point, and this
-subject is something that far too people spend the time learning more about and
+subject is something that far too few people spend the time learning more about and
 understanding how to make this aspect of their relationship better. You own it
 to each other. 
 
