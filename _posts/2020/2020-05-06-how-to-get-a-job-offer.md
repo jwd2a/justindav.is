@@ -53,7 +53,7 @@ people know you're interested in _this thing_.
 
 That's it. Get good at something (this takes time), and talk about it. Repeat.
 
-Think it won't work? [Here's a great example.][twitter][ A designer on Twitter who sadly
+Think it won't work? [Here's a great example.][twitter] A designer on Twitter who sadly
 lost her job in the COVID-19 situation. She posted about it, and had OVER 300 job offers
 - or at least invites - from a litany of big startups who would probably offer 
 her even a better job than she had previously.
