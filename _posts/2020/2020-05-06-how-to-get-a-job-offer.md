@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "How To Get a Job Offer"
+summary: "Want to get a job in the field you love easily? This is how."
+comment: true
 ---
 
 If you've ever said to yourself "I wish I could find a job", you need to read
