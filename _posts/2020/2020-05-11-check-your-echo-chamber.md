@@ -12,8 +12,8 @@ whose opinion you probably agree with more than disagree create an echo chamber
 that was never previously possible. 
 
 My wife and I were recently talking about peoples' reaction to COVID-19. She started,
-discussing just how many people on Facebook believe it's a hoax. I countered,
-saying that I hadn't seen much of that at all. 
+discussing just how many people on Facebook believe it's an overreaction, even a hoax. 
+I countered, saying that I hadn't seen much of that at all. 
 
 But she isn't wrong. To her, the world is made up of a lot of folks with one
 viewpoint, and to me, the world is made up of the opposite. 
